@@ -1,0 +1,13 @@
+2021-10-22 10:53:18,081  INFO [main] ElocalshopsApp:43 - Driver Initialised
+ 2021-10-22 10:53:22,300  INFO [main] ElocalshopsApp:52 - Successfully opened the URL
+ 2021-10-22 10:53:24,012 DEBUG [main] ElocalshopsApp:15 - Successfully clicked on Login
+ 2021-10-22 10:53:26,272 DEBUG [main] ElocalshopsApp:19 - Successfully entered the login details
+ 2021-10-22 10:53:28,788  INFO [main] ElocalshopsApp:52 - Successfully opened the URL
+ 2021-10-22 10:53:32,041  INFO [main] ElocalshopsApp:31 - System searched for desired item
+ 2021-10-22 10:53:32,196  INFO [main] ElocalshopsApp:59 - Driver Closed
+ 2021-10-22 10:53:32,254 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-10-22 10:53:32,256 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-10-22 10:53:32,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-10-22 10:53:32,259 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-10-22 10:53:32,260 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SAI%20DURGA%20PRASAD/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 
